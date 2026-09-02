@@ -1,8 +1,8 @@
 // Isi alamat repository sumber notebook agar tombol Google Colab aktif.
 // Contoh: owner: "nama-akun", repo: "nlp-studio-untar"
 const SITE_CONFIG = {
-  githubOwner: "GITHUB_USERNAME",
-  githubRepo: "nlp-studio-untar",
+  githubOwner: "LabiraRiset",
+  githubRepo: "NLP_Course",
   githubBranch: "main"
 };
 
